@@ -74,8 +74,7 @@
 
 ## 📞 Let's Connect!
 
-I'm always on the lookout for new opportunities, collaborations, or just a good tech chat. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/
-temitope-douglas). </a>.
+I'm always on the lookout for new opportunities, collaborations, or just a good tech chat. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/temitope-douglas). </a>.
 
 Let's make something Awesome together!
 
