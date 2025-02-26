@@ -74,9 +74,10 @@
 
 ## 📞 Let's Connect!
 
-I'm always on the lookout for new opportunities, collaborations, or just a good tech chat. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/temitope-douglas/). </a>.
+I'm always on the lookout for new opportunities, collaborations, or just a good tech chat. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/
+temitope-douglas). </a>.
 
-Let's make something amazing together!
+Let's make something Awesome together!
 
 <!--
 **TDgraph/TDgraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
