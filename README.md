@@ -5,8 +5,8 @@
 <p align="center">
     <b>Welcome to my GitHub space!</b><br><br>
     <i>
-        I'm Taymee.<br>
-        A passionate Full Stack Developer and a Graphics Designer.<br>
+        I'm Temitope Douglas.<br>
+        A passionate Full Stack web3 Developer.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/temitope-douglas/">
