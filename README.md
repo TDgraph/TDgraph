@@ -1,6 +1,6 @@
 ## About Me
 
-<h1 align="center"> Hey there! I'm Taymee 👋</h1>
+<h1 align="center"> Hey there! I'm Temitope 👋</h1>
 
 <p align="center">
     <b>Welcome to my GitHub space!</b><br><br>
