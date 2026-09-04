@@ -39,44 +39,39 @@
 [![UBUNTU](https://img.shields.io/badge/UBUNTU-black?style=for-the-badge&logo=UBUNTU)](https://github.com/TDgraph)
 
 
-## My personal values and work ethic
-✨ I want to build strong relationships with my clients.
+## 👋 About Me
 
-✨ I believe that a good working relationship is built on mutual trust and respect.
+I’m a passionate web developer who enjoys building modern, responsive, and user-focused digital experiences. I work with technologies such as **React**, the **MERN stack**, **WordPress**, and **Shopify** to help businesses establish a strong and effective online presence.
 
-✨ I value open communication and strive to keep you updated on progress every step of the way.
+I’m driven by curiosity, continuous learning, and the desire to create solutions that make a meaningful impact. Whether I’m developing a business website, improving an existing product, or collaborating on an innovative project, I approach every task with dedication and attention to detail.
 
-✨ I am a team player and enjoy collaborating with others to achieve a common goal.
+## 💡 My Values & Work Ethic
 
-✨ Outside of work, I am an avid sports fan, especially when it comes to football.
+- 🤝 I focus on building strong, long-term relationships with clients and collaborators.
+- 🌟 I believe successful projects are built on mutual trust, respect, and transparency.
+- 💬 I value clear and open communication and keep clients informed throughout every stage of development.
+- 👥 I’m a collaborative team player who enjoys working with others to achieve shared goals.
+- 🚀 I’m committed to delivering high-quality, practical, and user-friendly solutions.
+- 📚 I continuously learn new technologies and improve my skills to stay current in the ever-changing tech industry.
+- ⚽ Outside of technology, I’m an avid sports fan—especially when it comes to football.
+- 🎵 I also enjoy listening to good music in my free time.
 
-✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
+## ⚡ Rapid Fire
 
+- 🔭 **Currently working on:** Business website development
+- 🌱 **Currently learning and exploring:** Cyber Security and Devops.
+- 👯 **Open to collaborating on:** MERN stack projects, WordPress websites, Shopify stores, digital marketing projects, and innovative technology solutions
+- 💬 **Ask me about:** Frontend development, React, WordPress, Shopify, and building effective business websites
+- ⚡ **Fun fact:** I love listening to good music
 
-<br/>  
+## 📞 Let’s Connect
 
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
+I’m always open to new opportunities, exciting collaborations, and meaningful conversations about technology and business.
 
-- 🔭 I’m currently working on [Business Website Deveopment]   
-  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/temitope-douglas).
 
-- 🌱 I’m deeply entrenched in the world of **React** and love exploring new technologies that enhance web development.
+**Let’s build something awesome together!**
 
-  
-- 👯 I'm looking to collaborate on **MERN stack** projects, and anything innovative within the realms of **WordPress**, **Shopify**, and **Digital Marketing**.
-  
-
-- ⚡ Fun fact: I love Listening to Good Music.
-
-
-  <br>
-
-## 📞 Let's Connect!
-
-I'm always on the lookout for new opportunities, collaborations, or just a good tech chat. Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/temitope-douglas). </a>.
-
-Let's make something Awesome together!
 
 <!--
 **TDgraph/TDgraph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
